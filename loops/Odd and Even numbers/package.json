@@ -1,0 +1,22 @@
+{
+  "name": "odd-and-even-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dorcolac/shiny-chainsaw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dorcolac/shiny-chainsaw/issues"
+  },
+  "homepage": "https://github.com/Dorcolac/shiny-chainsaw#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
